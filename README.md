@@ -12,7 +12,9 @@
 <br />
 
 <div align="center">
-  <p><strong>A modern finance tracker web application designed to streamline financial management and provide insightful data visualizations.</strong></p>
+  <p><strong>inance Dashboard is a modern, AI-powered web application designed to simplify financial management and deliver insightful data visualizations. Built with the robust MERN stack (MongoDB, Express.js, React, Node.js), it integrates cutting-edge technologies like Redux Toolkit and Material-UI to provide a seamless solution for tracking income, expenses, and financial trends.
+
+Whether you're managing personal finances or analyzing yearly performance, Finance Dashboard empowers users with intuitive tools to make informed financial decisions..</strong></p>
 </div>
 
 ---
